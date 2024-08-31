@@ -1,0 +1,52 @@
+[
+    {
+        "question": "¿Cuál es el propósito principal de un modelo de Machine Learning?",
+        "options": [
+            "Optimización de datos",
+            "Detección de anomalías",
+            "Clasificación y predicción",
+            "Compresión de datos"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "¿Qué estructura sigue un modelo de aprendizaje supervisado?",
+        "options": [
+            "Lineal",
+            "Jerárquica",
+            "Matriz",
+            "Relacional"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "¿Qué representa un conjunto de datos de entrenamiento en Machine Learning?",
+        "options": [
+            "Datos sin etiquetas para agrupar",
+            "Datos de entrada con salidas conocidas",
+            "Un conjunto de datos de prueba",
+            "Datos irrelevantes para el modelo"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "¿Qué criterio se usa comúnmente para evaluar la precisión de un modelo de clasificación?",
+        "options": [
+            "Error cuadrático medio (MSE)",
+            "Precisión y recall",
+            "Entropía de Shannon",
+            "Índice de Gini"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "¿Cuál de las siguientes NO es una etapa en el proceso de Machine Learning?",
+        "options": [
+            "Recopilación de datos",
+            "Preprocesamiento de datos",
+            "Entrenamiento del modelo",
+            "Compresión de los datos"
+        ],
+        "correctAnswer": 3
+    }
+]

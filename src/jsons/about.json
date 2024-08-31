@@ -1,0 +1,16 @@
+{
+    "title": "Acerca de",
+    "imageSrc": "./assets/yo.png",
+    "imageAlt": "Rodrigo Garcia",
+    "name": "Rodrigo García, PhD",
+    "sectionTitle": "Objeto Virtual de Aprendizaje: Introducción a Machine Learning",
+    "description": "Este Objeto Virtual de Aprendizaje (OVA) está diseñado para proporcionar una comprensión integral de los conceptos fundamentales en Machine Learning, una disciplina clave en la inteligencia artificial y la ciencia de datos.",
+    "structureTitle": "El OVA se estructura en cuatro secciones principales:",
+    "structure": [
+        "Teoría: Explica los fundamentos matemáticos y conceptuales de Machine Learning, incluyendo sus principales algoritmos y aplicaciones.",
+        "Animación: Proporciona una visualización interactiva del proceso de aprendizaje en diferentes modelos de Machine Learning.",
+        "Evaluación: Permite a los usuarios poner a prueba sus conocimientos adquiridos a través de ejercicios y cuestionarios.",
+        "Acerca de: Ofrece información sobre el OVA y sus objetivos educativos, así como sobre el creador del contenido."
+    ],
+    "targetAudience": "Este OVA está dirigido a estudiantes de ingeniería, ciencias de la computación y profesionales interesados en la inteligencia artificial y el aprendizaje automático. Su objetivo es facilitar el aprendizaje autónomo y proporcionar una experiencia educativa interactiva y enriquecedora."
+}
