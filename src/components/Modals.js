@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Dialog from '@mui/material/Dialog';
-import { X, Search, Clock } from 'lucide-react';
+import { X, Search } from 'lucide-react';
 
 export const TemaModal = ({ isOpen, onClose, tema }) => (
     <Dialog open={isOpen} onOpenChange={onClose}>
