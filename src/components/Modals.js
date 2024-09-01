@@ -37,7 +37,7 @@ export const TemaModal = ({ isOpen, onClose, tema }) => (
         <div className="fixed inset-0 z-40 flex items-center justify-center bg-black bg-opacity-50">
             <div className="bg-white w-full h-full flex flex-col">
             <div className="flex justify-between items-center p-4 border-b">
-                <h2 className="text-3xl font-bold text-gray-800">{curso.titulo}</h2>
+                <h2 className="text-3xl font-bold text-gray-800">Curso de {curso.titulo}</h2>
                 <button onClick={onClose} className="text-gray-500 hover:text-gray-700">
                 <X size={24} />
                 </button>
