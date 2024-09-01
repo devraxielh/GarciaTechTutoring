@@ -1,9 +1,0 @@
-{
-    "imageSrc": "./assets/ml.jpg",
-    "imageAlt": "Imagen de Machine Learning",
-    "title": "¿Qué es el Machine Learning?",
-    "description": [
-        "El Machine Learning, o aprendizaje automático, es una rama de la inteligencia artificial que permite a los sistemas aprender y mejorar automáticamente a partir de la experiencia sin ser explícitamente programados para ello. En lugar de seguir instrucciones predefinidas, los modelos de Machine Learning identifican patrones en los datos, hacen predicciones o toman decisiones basadas en esos patrones.",
-        "El Machine Learning se aplica en una amplia gama de sectores, incluyendo la medicina, las finanzas, la tecnología y el marketing. Algunos ejemplos comunes incluyen el reconocimiento de voz, la personalización de recomendaciones de productos, la detección de fraudes, y la conducción autónoma. Gracias a su capacidad para manejar grandes volúmenes de datos y adaptarse a nuevas situaciones, el Machine Learning se ha convertido en una herramienta esencial en la era digital."
-    ]
-}

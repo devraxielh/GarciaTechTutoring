@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "titulo": "Machine Learning",
+      "descripcion": "Descubre los conceptos clave y técnicas utilizadas en Machine Learning para construir modelos predictivos y automatizar el análisis de datos.",
+      "imagen": "./assets/Machine-Learning.png",
+      "temas": [
+        {
+          "nombre": "01. Introducción a Machine Learning",
+          "descripcion": "El Machine Learning permite a los sistemas aprender de datos, hacer predicciones y tomar decisiones, revolucionando múltiples sectores industriales.",
+          "url": "https://ac-introducion-ml.onrender.com/"
+        },
+        {
+          "nombre": "02. Limpieza de datos",
+          "descripcion": "La limpieza de datos corrige errores e inconsistencias, garantizando precisión y calidad para modelos de Machine Learning y análisis efectivos.",
+          "url": "https://ac-preprocesamiento-datos.onrender.com"
+        },
+        {
+          "nombre": "03. Arboles de decisión",
+          "descripcion": "Un árbol de decisión clasifica datos en un formato interpretable, utilizando nodos para decisiones y hojas para predicciones finales.",
+          "url": "https://ac-arbol-decision.onrender.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Visión por Computadora",
+      "descripcion": "Aprende a desarrollar aplicaciones que interpretan y procesan imágenes y videos utilizando técnicas avanzadas de visión por computadora.",
+      "imagen": "./assets/Vision-Computadora.jpg",
+      "temas": [
+        {
+          "nombre": "01.Operador Sobel",
+          "descripcion": "El Operador Sobel detecta bordes calculando el gradiente de intensidad en imágenes, identificando cambios significativos en dirección y magnitud.",
+          "url": "https://cg-sobel-operator.onrender.com"
+        },
+        {
+          "nombre": "02.Operador Laplaciano",
+          "descripcion": "El Operador Laplaciano detecta bordes y detalles finos calculando la segunda derivada de la intensidad en imágenes, resaltando cambios rápidos.",
+          "url": "https://cg-laplaciano-operator.onrender.com"
+        },
+        {
+          "nombre": "03.Operador Scharr",
+          "descripcion": "El Operador Scharr mejora la detección de bordes, ofreciendo mayor precisión en gradientes y sensibilidad a cambios de intensidad en imágenes.",
+          "url": "https://cg-scharr-operator.onrender.com"
+        },
+        {
+          "nombre": "04.Operador Canny",
+          "descripcion": "El Operador Canny detecta bordes eficientemente, maximizando señal-ruido y minimizando bordes falsos mediante un algoritmo de múltiples etapas.",
+          "url": "https://cg-canny-operator.onrender.com"
+        }
+      ]
+    }
+  ]
