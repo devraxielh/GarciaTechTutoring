@@ -21,7 +21,7 @@
           "url": "https://ac-arbol-decision.onrender.com"
         },
         {
-          "nombre": "04. Maquina de soporte vectorial (SVM)",
+          "nombre": "04. Maquina de soporte vectorial (SVM) ",
           "descripcion": "Su objetivo principal es encontrar un hiperplano óptimo que separe los datos en diferentes clases con el mayor margen posible.",
           "url": "https://ac-svm.onrender.com"
         }
