@@ -19,6 +19,11 @@
           "nombre": "03. Arboles de decisión",
           "descripcion": "Un árbol de decisión clasifica datos en un formato interpretable, utilizando nodos para decisiones y hojas para predicciones finales.",
           "url": "https://ac-arbol-decision.onrender.com"
+        },
+        {
+          "nombre": "04. Maquina de soporte vectorial (SVM)",
+          "descripcion": "Su objetivo principal es encontrar un hiperplano óptimo que separe los datos en diferentes clases con el mayor margen posible.",
+          "url": "https://ac-svm.onrender.com"
         }
       ]
     },
