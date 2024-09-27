@@ -24,6 +24,11 @@
           "nombre": "04. Maquina de soporte vectorial (SVM) ",
           "descripcion": "Su objetivo principal es encontrar un hiperplano óptimo que separe los datos en diferentes clases con el mayor margen posible.",
           "url": "https://ac-svm.onrender.com"
+        },
+        {
+          "nombre": "05. Ramdon Forest",
+          "descripcion": "Random Forest es un algoritmo de aprendizaje supervisado que combina múltiples árboles de decisión para mejorar la precisión y evitar el sobreajuste.",
+          "url": "https://ac-randon-forest.onrender.com"
         }
       ]
     },
